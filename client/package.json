@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://enigmatic-earth-72504.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
