@@ -1,5 +1,6 @@
 {
   "name": "mern",
+  "homepage": "https://enigmatic-earth-72504.herokuapp.com",
   "version": "1.0.0",
   "description": "MERN Example",
   "main": "server.js",
